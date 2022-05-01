@@ -4,7 +4,7 @@ HTML to ADF Transformer
 
 Using TinyMCE as editor, it is possible to obtain the document from the editor and transform it to ADF.
 
-The method is very simple, it allow to integrate Atlassian products, like Jira using HTML content.
+The method is very simple, it allows to integrate Atlassian products, like Jira using HTML content.
 
 ## TODO
 
