@@ -1,6 +1,6 @@
 # Simple HTML to ADF (Atlassian Document Format) transformer
 
-HTML to ADF Transformer
+HTML to ADF Transformer written in Javascript
 
 Using TinyMCE as editor, it is possible to obtain the document from the editor and transform it to ADF.
 
